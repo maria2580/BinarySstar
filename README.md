@@ -1,4 +1,11 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=&height=100&section=header&text=🌱%20BinarySstar%20Github%20Page&fontSize=30" />
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=&height=100&section=header&text=📫%20Contact&fontSize=20" />  
+  <br>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</div>
+
 
 <!--
 **BinarySstar/BinarySstar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
