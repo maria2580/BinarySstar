@@ -3,7 +3,9 @@
   <br>
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=&height=100&section=header&text=📫%20Contact&fontSize=20" />  
   <br>
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="mailto:hdss8234@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </div>
 
 
