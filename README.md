@@ -10,6 +10,9 @@
 <br>
 <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
 
+## Most Used Language
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BinarySstar)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 📫 Contact
 <a href="mailto:hdss8234@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
