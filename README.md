@@ -9,6 +9,8 @@
 <img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
 ## Most Used Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BinarySstar)](https://github.com/anuraghazra/github-readme-stats)
