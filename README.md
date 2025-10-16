@@ -45,12 +45,9 @@
 | Project | Description | Link |
 |:---:|:---|:---:|
 | **ai-model-server** | 2024년 SW중심대학 공주대학교 대표 우수작품 출품작 | [Repository](https://github.com/BinarySstar/ai-model-server) |
-| **share-parking-service-kongju-api-server** | About
-주차 공간 부족 해결을 위한 공유 주차장 서비스 - 공주 | [Repository](https://github.com/BinarySstar/share-parking-service-kongju-api-server) |
-| **Credit-Card-Segment-Classfication** | About
-신용카드 고객의 금융 활동 데이터를 기반으로 머신러닝 모델을 활용해 고객을 A~E 세그먼트로 분류하는 프로젝트 | [Repository](https://github.com/BinarySstar/Credit-Card-Segment-Classfication) |
-| **2025-seoul-institute-emergency-log-data-pipeline** | About
-2025 서울연구원 학술연구용역: 응급활동 로그 기반 데이터 적재 파이프라인 | [Repository](https://github.com/BinarySstar/2025-seoul-institute-emergency-log-data-pipeline) |
+| **share-parking-service-kongju-api-server** | 주차 공간 부족 해결을 위한 공유 주차장 서비스 - 공주 | [Repository](https://github.com/BinarySstar/share-parking-service-kongju-api-server) |
+| **Credit-Card-Segment-Classfication** | 신용카드 고객의 금융 활동 데이터를 기반으로 머신러닝 모델을 활용해 고객을 A~E 세그먼트로 분류하는 프로젝트 | [Repository](https://github.com/BinarySstar/Credit-Card-Segment-Classfication) |
+| **2025-seoul-institute-emergency-log-data-pipeline** | 2025 서울연구원 학술연구용역: 응급활동 로그 기반 데이터 적재 파이프라인 | [Repository](https://github.com/BinarySstar/2025-seoul-institute-emergency-log-data-pipeline) |
 
 <br>
 
