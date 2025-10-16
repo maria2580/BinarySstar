@@ -36,8 +36,8 @@
 <br>
 
 ## 📈 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=BinarySstar&show_icons=true&theme=radical" alt="BinarySstar's GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BinarySstar&layout=compact&theme=radical" alt="BinarySstar's Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=BinarySstar&show_icons=true&theme=default" alt="BinarySstar's GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BinarySstar&layout=compact&theme=default" alt="BinarySstar's Top Languages"/>
   
 <br>
   
